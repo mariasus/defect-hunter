@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use these scripts, please cite them as below."
+title: "defect-hunter: OVITO scripts for defect analysis in irradiated Fe-Cr-Ni alloys"
+authors:
+  - family-names: Susini
+    given-names: Maria
+    orcid: "https://orcid.org/0009-0007-2194-2696"
+  - family-names: Van Brutzel
+    given-names: Laurent
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: Chartier
+    given-names: Alain
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+license: MIT
+repository-code: "https://github.com/mariasus/defect-hunter"

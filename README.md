@@ -52,7 +52,11 @@ The analysis parameters are calibrated for Fe70Cr15Ni15 described with the Béla
 
 ## Citation
 
-If you use these scripts, please cite the article above (DOI to be added) and this repository (Zenodo DOI to be added).
+If you use these scripts, please cite the archived version:
+
+M. Susini, L. Van Brutzel, A. Chartier, *defect-hunter: OVITO scripts for defect analysis in irradiated Fe-Cr-Ni alloys*, version v1.0, Zenodo (2026). https://doi.org/10.5281/zenodo.23259876
+
+and the associated article (reference to be added upon publication).
 
 ## License
 

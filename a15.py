@@ -137,9 +137,9 @@ for file in readlist:
 	# ============================================================
 	vect_line_decompte = np.bincount(np.bincount(node.output.particle_properties['Cluster'].array)[1:],minlength=250)
 	
-	for i in range(0,249): print(iteration,i,vect_line_decompte[i],end=" \n",file=g)
-	print(" ",file=g)
-	g.flush()
+	for i in range(0,249): print(iteration,i,vect_line_decompte[i],end=" \n",file=a15)
+	print(" ",file=a15)
+	a15.flush()
 
 	# ============================================================
 	# 6.4 Report analysis and total elapsed times
